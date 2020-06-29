@@ -63,7 +63,7 @@
     "jsdom": "^12.2.0",
     "json-loader": "^0.5.7",
     "mocha": "^5.2.0",
-    "node-sass": "^4.8.3",
+    "node-sass": "^4.14.0",
     "nyc": "^13.1.0",
     "phantomjs-polyfill-object-assign": "0.0.2",
     "prop-types": "^15.6.1",
