@@ -13,7 +13,7 @@
     "angular-oauth2-oidc": "^8.0.4",
     "azure-storage": "^2.10.3",
     "cross-env": "^6.0.3",
-    "dot-object": "1.7.0",
+    "dot-object": "2.1.3",
     "i18next": "12.1.0",
     "i18next-browser-languagedetector": "2.2.4",
     "i18next-xhr-backend": "1.5.1",
